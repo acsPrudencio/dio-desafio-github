@@ -36,5 +36,5 @@ git commit -am: comita e adiciona todas as alterações no conteúdo.
 git push --set-upstream : resolve possíveis problemas de conflito dentro do repositório remoto e cria a branch direto no origin.
 
 ## Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/)  
 [Download do Git](https://git-scm.com/downloads)
