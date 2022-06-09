@@ -33,7 +33,7 @@ git checkout -b: cria uma nova realidade(ramo) e muda para ela.
 
 git commit -am: comita e adiciona todas as alterações no conteúdo.
 
-git push --set-upstream : resolve possíveis problemas de conflito dentro do repositório remoto e cria a branch direto no origin.
+git push --set-upstream origin "novaBranch": Publica a nova branch no repositório remoto.
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)  
