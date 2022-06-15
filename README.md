@@ -5,6 +5,10 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 ## Lista de comandos
 
+git config --global user.name "Fulano de Tal": Configura o nome do usuário
+
+git config --global user.email fulanodetal@exemplo.br: Configura o email do usuário
+
 git init: inicia nosso versionamento.
 
 git add: adiciona ou modifica alterações elegíveis para nosso commit na linha do tempo.
