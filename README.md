@@ -23,9 +23,9 @@ git show: apresenta um ponto indicado na linha do tempo.
 
 git branch: exibe branchs disponíveis.
 
-git checkout: navega entre nossas realidades alternativas.
+git checkout "Nome da branch": navega entre nossas realidades alternativas.
 
-git merge: une nossas linhas do tempo.
+git merge branch: Junta duas branches, dê um checkout para a branch que vai receber as alterações e depois execulte o comando git merge "branch com novas features"
 
 git push: envia nossas alterações para um repositório remoto(github).
 
