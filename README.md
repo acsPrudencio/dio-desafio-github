@@ -35,7 +35,7 @@ git pull: atualiza seu repositório local a partir do seu repositório remoto.
 
 git checkout -b: cria uma nova realidade(ramo) e muda para ela.
 
-git commit -am: comita e adiciona todas as alterações no conteúdo.
+git commit -am "Produto.java foi atualizado": comita e adiciona todas as alterações do conteúdo.
 
 git push --set-upstream origin "novaBranch": Publica a nova branch no repositório remoto.
 
